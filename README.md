@@ -1,6 +1,6 @@
-![Bank_Loan_Dashboard](Dashboard_1.png)
+![Bank_Loan_Dashboard](Loan_Overview_Dashboard.png)
 
-![Bank_Loan_Dashboard](Dashboard_2.png)
+![Bank_Loan_Dashboard](Summary_Dashboard.png)
 
 
 # 📊 Bank Loan Analysis Dashboard (Power BI & SQL)
